@@ -1,1 +1,1 @@
-vless://dd84407d-75ca-46a4-bfcf-dd066120e1fb@94.228.164.92:44402?type=grpc&serviceName=YAAHMEDALHASAN&security=reality&fp=firefox&pbk=i-begFbuqcIscUXZoRbBRYYVH7ypqZ__VniugB7L5Co&sni=dash.cloudflare.com&sid=2549324e&spx=%2Flogin#YAALI-13Sharivar
+vless://0dfc340c-18fd-4995-9f53-c81f5cfa5061@94.228.164.92:44402?mode=gun&security=reality&encryption=none&pbk=M-R5V_N_E6s8kPalKmg8GwlCuQhAh8NxwF4O-0GmPxg&fp=firefox&spx=%2Flogin&type=grpc&serviceName=YAAHMEDALHASAN&sni=dash.cloudflare.com&sid=2549324e#YAALI-15Sharivar
