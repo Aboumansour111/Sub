@@ -1,1 +1,1 @@
-vless://6111c044-ca81-43db-8236-8557fb6c584a@94.228.164.92:36291?type=grpc&serviceName=YAAHMAD&security=reality&fp=firefox&pbk=mYZ6CSPk2Uq6jKLFWRYbbct5ZPCJd9KzrzOWBwJTa3w&sni=cdn.accuweather.com&sid=b5e5606a&spx=%2Fweather-forecasts#YaReza-17Sharivar
+vless://f3e6fa69-fa29-4c88-988b-45eb653a6687@38.180.23.69:33199?type=grpc&serviceName=YaAhmedalhasan&security=reality&fp=firefox&pbk=tzF4ZoEYcDO5BLYhVB8v4VHi2IVAHf3w9qME4L349wo&sni=cdn.accuweather.com&sid=3dd0e463&spx=%2Fweather-forecasts#YaReza-19Shahrivar
