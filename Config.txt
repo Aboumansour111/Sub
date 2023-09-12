@@ -1,1 +1,1 @@
-vless://28336e6d-7d94-4d9c-b818-bccc14ea78b6@[0000:0000:0000:0000:0000:ffff:26b4:1745]:10313?security=reality&encryption=none&pbk=jdbea-ID2oBg13kHJWQX6LDCFALxOsKvYszLzxwLixM&headerType=none&fp=firefox&spx=%2Fweather-forecasts&type=tcp&sni=cdn.accuweather.com&sid=7244f147#YaReza-21Shahrivar
+vless://af083855-5d17-4d19-821a-c9b8eab9010b@[0000:0000:0000:0000:0000:ffff:26b4:1745]:10313?security=reality&encryption=none&pbk=jqrrjj3kFk-lpgApxlQiVIaHrs-8RBOm_S85PZTwvxc&headerType=none&fp=firefox&spx=%2Fweather-forecasts&type=tcp&sni=cdn.accuweather.com&sid=7244f147#YaReza-22Shahrivar
