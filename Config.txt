@@ -1,1 +1,1 @@
-vless://af083855-5d17-4d19-821a-c9b8eab9010b@[0000:0000:0000:0000:0000:ffff:26b4:1745]:10313?security=reality&encryption=none&pbk=6tJBalBEF4T01DC5WCWY10CMaBScoP2DyIUIRGygO14&headerType=none&fp=firefox&spx=%2Fvideos&type=tcp&sni=pinterest.com&sid=841f007e#YaReza-23Shahrivar
+vless://4aa0d400-2ff4-4427-ad9f-0524676e93a0@38.180.23.122:10313?type=grpc&serviceName=YaAhmedalhasan&security=reality&fp=chrome&pbk=yXeaO-4sGDJ7P4x7Ry4grZnWGneWhSJDAm0Bx0hYOnU&sni=cdn.accuweather.com&sid=19dd840e&spx=%2Fweather-forecasts#YaReza-23Sharivar
