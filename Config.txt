@@ -1,1 +1,1 @@
-vless://4aa0d400-2ff4-4427-ad9f-0524676e93a0@38.180.23.122:10313?mode=gun&security=reality&encryption=none&pbk=Vse8khrInwjppy54co9eihhDM_aoHN8AYe803edBPjo&fp=chrome&spx=%2F&type=grpc&serviceName=YaAhmedalhasan&sid=4c5c219e#YaReza-24Sharivar
+vless://c5b4ebb3-a7f5-46b9-a9f9-a392585b8ee8@38.180.23.122:10313?mode=gun&security=reality&encryption=none&pbk=a85hWlHQIXfe_LqQ_vXkqtPLjWet4nBw7kJXBAELGhU&fp=chrome&spx=%2Fweather-forecasts&type=grpc&serviceName=YaAhmedalhasan&sni=cdn.accuweather.com&sid=e6f7a7fb#YaReza-25Shahrivar
