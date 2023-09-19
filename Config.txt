@@ -1,1 +1,1 @@
-vless://790586bf-cdf8-4453-8795-03579cc926ff@172.67.180.138:443?path=%2Fvless&security=tls&encryption=none&host=yaaliakbar.yaali10313.store&type=ws&sni=yaaliakbar.yaali10313.store#YaReza-28Shahrivar
+vless://790586bf-cdf8-4453-8795-03579cc926ff@172.67.180.138:443?path=%2Fvless&security=tls&encryption=none&host=yaaliakbar.yaali10313.store&type=ws&sni=yaaliakbar.yaali10313.store#YaReza-29Shahrivar
