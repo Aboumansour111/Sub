@@ -1,1 +1,1 @@
-vless://790586bf-cdf8-4453-8795-03579cc926ff@[::ffff:6812:ba53]:443?path=%2Fvless&security=tls&encryption=none&host=yamansouramet.yaali10313.store&type=ws&sni=yamansouramet.yaali10313.store#YaReza-30Shahrivar
+vless://790586bf-cdf8-4453-8795-03579cc926ff@[::ffff:6ca2:c136]:443?path=%2Fvless&security=tls&encryption=none&host=yamahdi1111.yaali10313.store&type=ws&sni=yamahdi1111.yaali10313.store#YaReza-31Shahrivar
