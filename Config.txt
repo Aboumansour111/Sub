@@ -1,2 +1,1 @@
-vless://f5e8c0bd-8ca7-4944-9d76-fff0784dc81b@104.16.186.95:2053?path=%2FyaReza&security=tls&encryption=none&host=yamahdi10313.yaali10313.store&fp=randomized&type=ws&sni=yamahdi10313.yaali10313.store#Vpn13
-
+vless://f5e8c0bd-8ca7-4944-9d76-fff0784dc81c@104.16.186.95:2053?path=%2FyaReza&security=tls&encryption=none&host=yamahdi10313.yaali10313.store&fp=randomized&type=ws&sni=yamahdi10313.yaali10313.store#Vpn13
