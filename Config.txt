@@ -1,1 +1,1 @@
-vless://459ac5a7-32a6-44a3-ef26-d6790c2de0e6@94.140.0.121:2083?path=%2FYAALI&security=tls&encryption=none&alpn=h2,http/1.1&host=yamahdi10313.yaali10313.store&fp=chrome&type=ws&sni=yamahdi10313.yaali10313.store#%F0%9F%9A%80VPN13%7C5Dey
+vless://459ac5a7-32a6-44a3-ef26-d6790c2de0e6@94.140.0.126:2083?path=%2FYAALI&security=tls&encryption=none&alpn=h2,http/1.1&host=yamahdi10313.yaali10313.store&fp=chrome&type=ws&sni=yamahdi10313.yaali10313.store#%F0%9F%9A%80VPN13%7C7Dey
