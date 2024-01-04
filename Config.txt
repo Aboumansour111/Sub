@@ -1,2 +1,1 @@
-vless://459ac5a7-32a6-44a3-ef26-d6790c2de0e6@45.131.4.55:2083?path=%2FYAALI&security=tls&encryption=none&alpn=h2,http/1.1&host=yamahdi10313.yaali10313.store&fp=chrome&type=ws&sni=yamahdi10313.yaali10313.store#%F0%9F%9A%80VPN13%7C13Dey%7CIrancell
-vless://459ac5a7-32a6-44a3-ef26-d6790c2de0e6@45.131.5.68:2083?path=%2FYAALI&security=tls&encryption=none&alpn=h2,http/1.1&host=yamahdi10313.yaali10313.store&fp=chrome&type=ws&sni=yamahdi10313.yaali10313.store#%F0%9F%9A%80VPN13%7C13Dey%7CMci
+vless://459ac5a7-32a6-44a3-ef26-d6790c2de0e6@45.131.6.57:2083?path=%2FYAALI&security=tls&encryption=none&alpn=h2,http/1.1&host=yamahdi10313.yaali10313.store&fp=chrome&type=ws&sni=yamahdi10313.yaali10313.store#%F0%9F%9A%80VPN13%7C14Dey
