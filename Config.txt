@@ -1,1 +1,1 @@
-vless://d1dacd76-9a8e-48b3-90f5-2cd4f26b9191@172.64.195.241:2087?path=%2Fvless&security=tls&encryption=none&host=yaali.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=yaali.yarezayaaliyaahmadyareza.lat#VPN13%7C7Esfand
+vless://85cf6498-fa41-4f2c-9b8a-13fc5803c025@172.64.200.224:2053?path=%2Fyaali&security=tls&encryption=none&alpn=h2,http/1.1&host=yaali.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=yaali.yarezayaaliyaahmadyareza.lat#VPN13%7C14Esfans
