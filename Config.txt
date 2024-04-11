@@ -1,1 +1,1 @@
-vless://170574fa-82f1-4678-a753-ebc1d934a6d8@172.64.133.111:443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=yaaboofazel.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=yaaboofazel.yarezayaaliyaahmadyareza.lat#VPN13%7C20Farvardin
+vless://170574fa-82f1-4678-a753-ebc1d934a6d8@104.16.122.175:443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=yaaboofazel.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=yaaboofazel.yarezayaaliyaahmadyareza.lat#VPN13%7C22Farvardin
