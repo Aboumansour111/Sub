@@ -1,1 +1,1 @@
-vless://015562f9-8e4d-49f7-8fa1-f226ce133201@104.24.189.164:2053?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=netherland.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=netherland.yarezayaaliyaahmadyareza.lat#Vpn13%7C21Ordibehesht%7C1
+vless://e3832f37-dcaa-47bb-9636-eaabeb95c56f@104.24.153.34:443?path=%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=uss.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=tetstetsste.yarezayaaliyaahmadyareza.lat#yaAli
