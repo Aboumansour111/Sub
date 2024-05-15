@@ -1,1 +1,1 @@
-vless://e3832f37-dcaa-47bb-9636-eaabeb95c56f@104.21.80.97:443?path=%2Fvless&security=tls&encryption=none&alpn=h2,http/1.1&host=uss.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=tetstetsste.yarezayaaliyaahmadyareza.lat#yaHasan
+vless://fc48d093-7b8a-44b0-ac34-8feaa69f5cf4@104.24.48.225:8443?path=%2Ftest%40test%40test%40test%3Fed%3D2065&security=tls&encryption=none&alpn=h2,http/1.1&host=uss.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=qwerti.yarezayaaliyaahmadyareza.lat#Test
