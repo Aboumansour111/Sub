@@ -1,3 +1,3 @@
-vless://70e40094-95b2-4dce-9164-8480ee4d4568@104.16.6.16:2053?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+vless://9b76d6d1-8efb-4472-9f9d-5e49b791e0b8@[2a12:5940:1e68::2]:42399?mode=gun&security=reality&encryption=none&authority=&pbk=X0uj1VcPRuhB0Zam6a5tqz_1B_g7M1KTCkiIoZRggjU&fp=chrome&spx=%2F&type=grpc&serviceName=test&sni=flightradar24.com&sid=be4d261a#%E2%9C%88%EF%B8%8FForIpv6%F0%9F%9B%A9%EF%B8%8F
 
-vless://70e40094-95b2-4dce-9164-8480ee4d4568@104.16.6.16:2053?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%D9%87%D9%85%D8%B1%D8%A7%D9%87+%D8%A7%D9%88%D9%84
+vless://40228de9-b265-4ee3-adf6-775d9a812efa@104.16.6.17:443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B12Khordad%F0%9F%8C%B4
