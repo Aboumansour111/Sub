@@ -1,3 +1,1 @@
-vless://9b76d6d1-8efb-4472-9f9d-5e49b791e0b8@[2a12:5940:1e68::2]:42399?mode=gun&security=reality&encryption=none&authority=&pbk=X0uj1VcPRuhB0Zam6a5tqz_1B_g7M1KTCkiIoZRggjU&fp=chrome&spx=%2F&type=grpc&serviceName=test&sni=flightradar24.com&sid=be4d261a#%E2%9C%88%EF%B8%8FForIpv6%F0%9F%9B%A9%EF%B8%8F
-
-vless://40228de9-b265-4ee3-adf6-775d9a812efa@104.16.6.17:443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B12Khordad%F0%9F%8C%B4
+vless://acef8c9d-2048-42d4-92e2-cb9b4643d3a8@104.20.165.235:8443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B14Khordad%E2%98%80%EF%B8%8F
