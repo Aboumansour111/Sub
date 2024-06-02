@@ -1,3 +1,2 @@
-vless://66eedd35-85d5-4520-a4f3-24c3d5561c69@104.18.59.182:2053?path=%2Ftest%40test%40test&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B18khOrdAD%F0%9F%8C%B2++%7C++Mci
-
-vless://6f0ab20a-ffd2-499b-a7f5-88156123a2f4@199.232.193.57:443?path=%2Fws&security=tls&encryption=none&host=jdbsbsbshshhhsshshs8281.com&type=ws&sni=fastly.com#%F0%9F%8C%B18khOrdAD%F0%9F%8C%B2++%7C++Irancell
+vless://baf97573-a5f5-4299-90f4-312993abac88@199.232.193.57:443?path=%2Fws&security=tls&encryption=none&host=jdbsbsbshshhhsshshs8281.com&type=ws&sni=fastly.com#%F0%9F%8C%B113khOrdAD%F0%9F%8C%B2++%7C++Irancell
+vless://185f0033-5708-42ea-a6b1-5530a685a9be@104.25.209.4:2053?path=%2Ftest%40test%40test&security=tls&encryption=none&alpn=h2,http/1.1&host=ams.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=ams.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B113khOrdAD%F0%9F%8C%B2++%7C++Mci
