@@ -1,1 +1,3 @@
 vless://83fceae3-2da5-41aa-a03e-902a10c80b5c@188.114.97.6:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=do.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=do.yarezayaaliyaahmadyareza.lat#%F0%9F%8C%B2All+Providers++%7C+30+khORdaD+%F0%9F%8C%B4
+
+vless://b98d0bd8-c8b1-4b6f-9285-e0d3d4c24edc@138.68.89.194:33162?mode=gun&security=reality&encryption=none&authority=&pbk=IUwxksLOBcs5kUKLBQdmlcHbJEGsmT8nuSOg03fXPTw&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=7dd5#Test
