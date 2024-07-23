@@ -1,1 +1,1 @@
-vless://478e256d-342b-41bb-8cc2-256979e0c19f@188.114.97.3:2053?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=yasaleh.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=yasaleh.yarezayaaliyaahmadyareza.lat#%F0%9F%8F%B4Ashura+%F0%9F%8F%B4
+vless://6c4ec63f-6cd6-404f-a7e8-27ed1e7f6693@141.101.120.101:2053?path=%2Ftest&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hetz.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=hetz.yarezayaaliyaahmadyareza.lat#%F0%9F%8F%B42Mordad%F0%9F%8F%B4
