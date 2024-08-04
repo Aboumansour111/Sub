@@ -1,1 +1,1 @@
-vless://6c4ec63f-6cd6-404f-a7e8-27ed1e7f6693@104.18.40.89:2053?path=%2Ftest&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hetz.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=hetz.yarezayaaliyaahmadyareza.lat#%F0%9F%8F%B48Mordad%F0%9F%8F%B4
+vless://6c4ec63f-6cd6-404f-a7e8-27ed1e7f6693@104.18.40.13:2053?path=%2Ftest&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hetz.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=hetz.yarezayaaliyaahmadyareza.lat#%F0%9F%8F%B414Mordad%F0%9F%8F%B4
