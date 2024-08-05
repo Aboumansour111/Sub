@@ -1,1 +1,2 @@
-vless://6c4ec63f-6cd6-404f-a7e8-27ed1e7f6693@104.18.40.13:2053?path=%2Ftest&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=hetz.yarezayaaliyaahmadyareza.lat&fp=randomized&type=ws&sni=hetz.yarezayaaliyaahmadyareza.lat#%F0%9F%8F%B414Mordad%F0%9F%8F%B4
+vless://26fa2dd2-3385-4ceb-ba8a-b2ffad7b25cb@104.18.40.89:443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=yek2se.jdwqqcdjfuuhhenqbh188djskwl.online&fp=randomized&type=ws&sni=yek2se.jdwqqcdjfuuhhenqbh188djskwl.online#%F0%9F%8F%B416Mordad+%F0%9F%8F%B4
+vless://e3f36664-5e55-4e73-b65a-2844e71cdc37@[2a01:4f8:c013:b6d::1]:13699?security=reality&encryption=none&pbk=_qERePSI4YHmEfBU6koFhUNQ-grLdqhZVsLkctQad2Y&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=209f30d0#ipv6
