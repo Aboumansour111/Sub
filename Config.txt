@@ -1,1 +1,2 @@
-vless://120fd118-f580-4d1c-bdea-8d6bd84de302@151.101.130.219:443?path=%2F&security=tls&encryption=none&host=343.ir&type=ws&sni=alaki.speedtest.net#%F0%9F%8F%B418+Mordad%7CTest%F0%9F%8F%B4
+vless://120fd118-f580-4d1c-bdea-8d6bd84de302@151.101.66.219:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=343.ir&fp=randomized&type=ws&sni=speedtest.net#%F0%9F%8F%B423+Mordad+%3A%3A1%F0%9F%8F%B4
+vless://120fd118-f580-4d1c-bdea-8d6bd84de302@151.101.193.57:80?path=%2F%3Fed%3D2650&security=none&encryption=none&host=343.ir&type=ws#%F0%9F%8F%B423+Mordad+%3A%3A2%F0%9F%8F%B4
