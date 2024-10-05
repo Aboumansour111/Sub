@@ -1,7 +1,5 @@
-vless://ad920a04-d4e0-4090-bc65-211bd68f4c1a@151.101.66.219:443?path=%2F&security=tls&encryption=none&host=akbar2.ir&type=ws&sni=speedtest.net#Config-1%3A%3A19Sharivar
+vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarali.ir&type=ws&sni=fastly.com#15mEHr%3A%3A%3A%3A1
 
-vless://889455c8-833e-4c5a-85b5-dae1c2d56e94@172.67.152.66:443?path=%2Ftest&security=tls&encryption=none&alpn=h2,http/1.1&host=akbar2.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=akbar2.yarezayaaliyaahmadyareza.lat#Config-2%3A%3A19Sharivar
+vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:80?path=%2F&security=none&encryption=none&host=akbarali.ir&type=ws&sni=fastly.com#15mEHr%3A%3A%3A%3A2
 
-vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55db]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#Config-3%3A%3A19Sharivar
-
-vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#Config-4%3A%3A19Sharivar
+vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#15mEHr%3A%3A3
