@@ -1,4 +1,4 @@
-vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarali.ir&type=ws&sni=fastly.com#15mEHr%3A%3A%3A%3A1
+vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarali.ir&type=ws&sni=bwdraper.faculty.ucdavis.edu#15mEHr%3A%3A%3A%3A1
 
 vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:80?path=%2F&security=none&encryption=none&host=akbarali.ir&type=ws&sni=fastly.com#15mEHr%3A%3A%3A%3A2
 
