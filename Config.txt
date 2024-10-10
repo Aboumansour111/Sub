@@ -1,5 +1,5 @@
-vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarali.ir&type=ws&sni=bwdraper.faculty.ucdavis.edu#15mEHr%3A%3A%3A%3A1
+vless://26a0a1a8-c545-4777-e0b7-e916623b4e88@151.101.66.228:443?encryption=none&security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=aghaali.ir&path=%2F#config1%3A%3Afastly
 
-vless://8b3d5406-4e92-4c8a-baa3-dab52018fc44@151.101.2.228:80?path=%2F&security=none&encryption=none&host=akbarali.ir&type=ws&sni=fastly.com#15mEHr%3A%3A%3A%3A2
+vless://e5671f93-b551-4c6f-f65f-7083dc8d3aa1@[2a01:4f9:c011:10d1::1]:20974?encryption=none&security=reality&sni=zula.ir&fp=firefox&pbk=nnDDCPxOooN88o4cMYBJI5SffT173PL5wv0jL3_4A3w&spx=%2F&type=grpc#config2%3A%3Aipv6
 
-vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#15mEHr%3A%3A3
+vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#config3%3A%3Acloud
