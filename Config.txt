@@ -1,5 +1,3 @@
-vless://26a0a1a8-c545-4777-e0b7-e916623b4e88@151.101.66.228:443?encryption=none&security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=aghaali.ir&path=%2F#config1%3A%3Afastly
-
-vless://e5671f93-b551-4c6f-f65f-7083dc8d3aa1@[2a01:4f9:c011:10d1::1]:20974?encryption=none&security=reality&sni=zula.ir&fp=firefox&pbk=nnDDCPxOooN88o4cMYBJI5SffT173PL5wv0jL3_4A3w&spx=%2F&type=grpc#config2%3A%3Aipv6
-
-vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#config3%3A%3Acloud
+vless://50d917b0-52c9-4ddf-f0c1-aafdccb2745c@151.101.130.133:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=live.989bull.com#fastly
+vless://91db5ae9-655d-42fa-d02b-4a079761aae3@[2a01:4f9:c010:71bd::1]:39060?mode=gun&security=reality&encryption=none&pbk=k4lCf2MFc9aLP0PrNAjhC1-2dp7D_U2-AcWzL2eiQXk&fp=firefox&spx=%2F&type=grpc&sni=zula.ir#ipv6
+vless://de2200be-36b9-4ade-a13c-74e4a4e2ea46@[::ffff:3207:55dd]:443?path=%2F&security=tls&encryption=none&host=test-eot.pages.dev&fp=randomized&type=ws&sni=test-eot.pages.dev#cloud
