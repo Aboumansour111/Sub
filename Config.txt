@@ -1,4 +1,4 @@
-vless://50d917b0-52c9-4ddf-f0c1-aafdccb2745c@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#fastly
+vless://c9e8c701-cdf1-4dda-8a8b-ddaed8250273@151.101.2.228:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#fastly
 
 
 vless://91db5ae9-655d-42fa-d02b-4a079761aae3@[2a01:4f9:c010:71bd::1]:39060?mode=gun&security=reality&encryption=none&pbk=k4lCf2MFc9aLP0PrNAjhC1-2dp7D_U2-AcWzL2eiQXk&fp=firefox&spx=%2F&type=grpc&sni=zula.ir#ipv6
