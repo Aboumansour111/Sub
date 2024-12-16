@@ -1,4 +1,4 @@
-vless://c9e8c701-cdf1-4dda-8a8b-ddaed8250273@pscresearch.faculty.ucdavis.edu:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=akbarsamavari.ir&fp=chrome&type=ws&sni=pscresearch.faculty.ucdavis.edu#Fastly
+vless://c9e8c701-cdf1-4dda-8a8b-ddaed8250273@151.101.194.228:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=pscresearch.faculty.ucdavis.edu#Fastly
 
 vless://09f5aa9d-906d-463d-981a-148ee5087177@[::ffff:3207:55dd]:443?path=%2FNwe1O7oyKVSPG3CF%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=c69d8e93-rough-bar-7bb0.vpnansart.workers.dev&fp=randomized&type=ws&sni=C69D8e93-rOUGH-BAR-7bB0.vPnaNSARt.WOrkeRS.dEV#Cloudflare
 
