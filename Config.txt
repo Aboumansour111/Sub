@@ -1,7 +1,4 @@
-vless://d26c67eb-3473-4254-bd10-8d4f943fc752@91.107.173.222:33853?mode=auto&path=%2F&security=reality&encryption=none&pbk=vzFyleCThyHBoUZcmvvi3u1QnmgDXUXo32s5kXMDpmQ&fp=chrome&spx=%2Fcollege-womens-basketball%2Fnews%2F&type=xhttp&sni=sports.yahoo.com&sid=2757#test
-
-
-vless://18e2763a-54ca-425d-db41-2c4cba7fa279@188.114.98.19:2053?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=yaabbas.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=yaabbas.yarezayaaliyaahmadyareza.lat#Cloudflare
+vless://18e2763a-54ca-425d-db41-2c4cba7fa279@104.18.89.38:2053?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=yaabbas.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=yaabbas.yarezayaaliyaahmadyareza.lat#Cloudflare
 
 vless://c9e8c701-cdf1-4dda-8a8b-ddaed8250273@151.101.194.228:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=pscresearch.faculty.ucdavis.edu#Fastly
 
