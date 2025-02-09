@@ -1,5 +1,5 @@
-vless://18e2763a-54ca-425d-db41-2c4cba7fa279@104.18.89.38:2053?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=yaabbas.yarezayaaliyaahmadyareza.lat&fp=chrome&type=ws&sni=yaabbas.yarezayaaliyaahmadyareza.lat#Cloudflare
+vless://660a1f8f-d88f-44af-84aa-e88e6bc397cc@151.101.66.228:80?mode=auto&path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=testmikonamfastlyro.com&fp=chrome&type=xhttp&sni=ergwork.web.unc.edu#Fastly
 
-vless://c9e8c701-cdf1-4dda-8a8b-ddaed8250273@151.101.194.228:443?path=%2F&security=tls&encryption=none&host=akbarsamavari.ir&type=ws&sni=pscresearch.faculty.ucdavis.edu#Fastly
+vless://660a1f8f-d88f-44af-84aa-e88e6bc397cc@151.101.66.228:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=testmikonamfastlyro.com&fp=chrome&type=xhttp&sni=hajlab.ucdavis.edu#Fastly2
 
-vless://91db5ae9-655d-42fa-d02b-4a079761aae3@[2a01:4f9:c010:71bd::1]:39060?mode=gun&security=reality&encryption=none&pbk=k4lCf2MFc9aLP0PrNAjhC1-2dp7D_U2-AcWzL2eiQXk&fp=firefox&spx=%2F&type=grpc&sni=zula.ir#ipv6
+vless://c054f63d-cdef-4a35-86c3-081f92828101@[2a01:4f9:c011:10d1::1]:36680?mode=gun&security=reality&encryption=none&pbk=eZ6YO-GoDi9lbnT2ksqQCrAHfpQAK3BsjiGpi5J-aDs&fp=chrome&spx=%2F&type=grpc&sni=accuweather.com&sid=515e81e412629a#reality
