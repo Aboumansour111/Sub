@@ -1,13 +1,11 @@
-vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@[::ffff:3207:55da]:443?path=%2Fws&security=tls&encryption=none&host=srv1.dasaw219694913.workers.dev&type=ws&sni=srv1.dasaw219694913.workers.dev#Cloudflare%201
+vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@188.114.97.99:443?path=%2Fws&security=tls&encryption=none&host=srv1.dasaw219694913.workers.dev&type=ws&sni=srv1.dasaw219694913.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1%201
 
-vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@[::ffff:3207:55dd]:443?path=%2Fws&security=tls&encryption=none&host=srv2.kagic16693.workers.dev&type=ws&sni=srv2.kagic16693.workers.dev#Cloudflare%202
+vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@188.114.97.99:443?path=%2Fws&security=tls&encryption=none&host=srv2.kagic16693.workers.dev&type=ws&sni=srv2.kagic16693.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1%202
 
-vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@[::ffff:3207:55dc]:443?path=%2Fws&security=tls&encryption=none&host=srv3.feligaj586.workers.dev&type=ws&sni=srv3.feligaj586.workers.dev#Cloudflare%203
+vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@188.114.97.99:443?path=%2Fws&security=tls&encryption=none&host=srv3.feligaj586.workers.dev&type=ws&sni=srv3.feligaj586.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1%203
 
-vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@[::ffff:3207:55dd]:443?path=%2Fws&security=tls&encryption=none&host=srv4.howapiw729.workers.dev&type=ws&sni=srv4.howapiw729.workers.dev#Cloudflare%204
+vless://510b6b93-f6f2-4cc9-9bc9-257e3909f833@188.114.97.99:443?path=%2Fws&security=tls&encryption=none&host=srv4.howapiw729.workers.dev&type=ws&sni=srv4.howapiw729.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%D9%81%D9%84%D8%B1%204
 
-vless://660a1f8f-d88f-44af-84aa-e88e6bc397cc@151.101.66.228:80?mode=auto&path=%2F&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=testmikonamfastlyro.com&fp=chrome&type=xhttp&sni=ergwork.web.unc.edu#Fastly1
-
-vless://660a1f8f-d88f-44af-84aa-e88e6bc397cc@151.101.66.228:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=testmikonamfastlyro.com&fp=chrome&type=xhttp&sni=hajlab.ucdavis.edu#Fastly2
+vless://660a1f8f-d88f-44af-84aa-e88e6bc397cc@ufc.ru:80?mode=auto&path=%2F&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=testmikonamfastlyro.com&fp=chrome&type=xhttp&sni=ergwork.web.unc.edu#%D9%81%D8%B3%D8%AA%D9%84%DB%8C
 
 vless://c054f63d-cdef-4a35-86c3-081f92828101@[2a01:4f9:c011:10d1::1]:36680?mode=gun&security=reality&encryption=none&pbk=eZ6YO-GoDi9lbnT2ksqQCrAHfpQAK3BsjiGpi5J-aDs&fp=chrome&spx=%2F&type=grpc&sni=accuweather.com&sid=515e81e412629a#reality
