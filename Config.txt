@@ -9,3 +9,7 @@ vless://78fb005f-b101-47be-8ae7-02692f30333a@188.114.97.98:2096?path=%2FVLESS&se
 vless://78fb005f-b101-47be-8ae7-02692f30333a@188.114.97.98:8443?path=%2FVLESS&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=newworker.hojena98254437.workers.dev&fp=chrome&type=ws&sni=newworker.hojena98254437.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%205
 
 vless://78fb005f-b101-47be-8ae7-02692f30333a@188.114.97.98:443?path=%2FVLESS&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=srv1.dasaw219694913.workers.dev&fp=chrome&type=ws&sni=srv1.dasaw219694913.workers.dev#%DA%A9%D9%84%D9%88%D8%AF%206
+
+
+vless://c59293f5-cfed-4b04-ba21-efc623be4c29@[2a01:4f8:c010:6be3::1]:17627?mode=gun&security=reality&encryption=none&pbk=t70KTkEy7Z3xN0i5vPUausiug8kRH3p-3shXyYHCxzU&fp=chrome&spx=%2Fwww.accuweather.com%2Ffa%2Fir%2Ftehran%2F210841%2Fhourly-weather-forecast%2F210841&type=grpc&sni=accuweather.com&sid=c0bbcaa7c094#Reality
+
