@@ -1,3 +1,5 @@
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_ffba@104.17.209.233:443?path=%2Fvless&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#%D9%87%D9%84%D9%86%D8%AF
+
 vless://08fc3c53-1819-4d70-92d8-77718235194b@104.17.209.233:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#%D8%B3%D9%88%D8%A6%D8%AF
 
 vless://08fc3c53-1819-4d70-92d8-77718235194b@104.17.209.233:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#%D8%B3%D9%88%D8%A6%D8%AF%202
