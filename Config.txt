@@ -2,7 +2,7 @@ vless://607ff961-a262-42f5-b0fa-b480261e67ca@172.66.44.135:443?path=%2FD4QFdyT4v
 
 vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#15Farvardin%7C1
 
- vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#15Farvardin%7C2
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#15Farvardin%7C2
 
 vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#15Farvardin%7C3
 
