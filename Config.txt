@@ -1,8 +1,13 @@
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#7Farvardin%7C1
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#7Farvardin%7C2
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#7Farvardin%7C3
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#7Farvardin%7C4
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&host=shiny-base-4d9a.mifolan4697928.workers.dev&type=ws&sni=shiny-base-4d9a.mifolan4697928.workers.dev#7Farvardin%7C5
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=proud-limit-f30c.ditok26539.workers.dev&type=ws&sni=proud-limit-f30c.ditok26539.workers.dev#7Farvardin%7C6
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_sshOcean_11b8@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=spring-hill-c746.dobiy47415.workers.dev&type=ws&sni=spring-hill-c746.dobiy47415.workers.dev#7Farvardin%7C7
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#15Farvardin%7C1
 
+ vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#15Farvardin%7C2
+
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#15Farvardin%7C3
+
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#15Farvardin%7C4
+
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=shiny-base-4d9a.mifolan4697928.workers.dev&type=ws&sni=shiny-base-4d9a.mifolan4697928.workers.dev#15Farvardin%7C5
+
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=proud-limit-f30c.ditok26539.workers.dev&type=ws&sni=proud-limit-f30c.ditok26539.workers.dev#15Farvardin%7C6
+
+vless://23d7260e-cb94-4109-b89e-2df2d59a8069@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=spring-hill-c746.dobiy47415.workers.dev&type=ws&sni=spring-hill-c746.dobiy47415.workers.dev#15Farvardin%7C7
