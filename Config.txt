@@ -1,15 +1,16 @@
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#cloud%3A%3A1
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=sparkling-waterfall-4e46.jaraw88785.workers.dev&type=ws&sni=sparkling-waterfall-4e46.jaraw88785.workers.dev#cloud%3A%3A1
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#cloud%3A%3A2
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#cloud%3A%3A2
 
-vless://2baa8762-1160-11f0-b1ac-5b125c3111ff@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#cloud%3A%3A3
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@188.114.97.2:443?path=%2Fws&security=tls&encryption=none&host=wild-forest-1cbf.vodev781742850.workers.dev&type=ws&sni=wild-forest-1cbf.vodev781742850.workers.dev#cloud%3A%3A3
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#cloud%3A%3A4
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#cloud%3A%3A4
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=shiny-base-4d9a.mifolan4697928.workers.dev&type=ws&sni=shiny-base-4d9a.mifolan4697928.workers.dev#cloud%3A%3A5
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=shiny-base-4d9a.mifolan4697928.workers.dev&type=ws&sni=shiny-base-4d9a.mifolan4697928.workers.dev#cloud%3A%3A5
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=proud-limit-f30c.ditok26539.workers.dev&type=ws&sni=proud-limit-f30c.ditok26539.workers.dev#cloud%3A%3A6
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=proud-limit-f30c.ditok26539.workers.dev&type=ws&sni=proud-limit-f30c.ditok26539.workers.dev#cloud%3A%3A6
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=spring-hill-c746.dobiy47415.workers.dev&type=ws&sni=spring-hill-c746.dobiy47415.workers.dev#cloud%3A%3A7
 
-vless://aa987c21-ce41-475e-9b60-580b68f16e6b@104.21.64.1:443?path=%2Fws&security=tls&encryption=none&host=wild-dust-e712.feligaj586.workers.dev&type=ws&sni=wild-dust-e712.feligaj586.workers.dev#cloud%3A%3A8
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@172.66.47.69:443?path=%2Fws&security=tls&encryption=none&host=spring-hill-c746.dobiy47415.workers.dev&type=ws&sni=spring-hill-c746.dobiy47415.workers.dev#cloud%3A%3A7
+
+vless://7309c508-8e99-4ee7-9e3c-b51f2ff6fb08@104.21.64.1:443?path=%2Fws&security=tls&encryption=none&host=wild-dust-e712.feligaj586.workers.dev&type=ws&sni=wild-dust-e712.feligaj586.workers.dev#cloud%3A%3A8
