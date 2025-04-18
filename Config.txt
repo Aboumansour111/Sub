@@ -9,4 +9,4 @@ vless://c86b9bfb-8655-4927-8f9a-1b2e72539d7c@104.21.64.1:443?path=%2FjuB5jOg0qSD
 vless://c48910fd-399e-44f3-991e-f83ab42d2ec2@188.114.97.3:443?path=%2Fqzvmt8C6UT4GL8OK%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pages2b.pages.dev&fp=randomized&type=ws&sni=PageS2b.pAgES.deV#Pages%3A%3A2
 vless://b354c98d-804c-40dd-9204-ea14a242fd86@172.66.47.120:443?path=%2FHyGs9F4VKB5WNcDZ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pages3b.pages.dev&fp=randomized&type=ws&sni=PaGES3b.pAgEs.dEV#Pages%3A%3A3
 vless://bc6d802d-e0ba-4a39-a936-8127c1b2ebeb@172.66.44.169:443?path=%2FdyZAFV8MmUuBB9oj%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pages4-6gy.pages.dev&fp=randomized&type=ws&sni=pageS4-6Gy.PageS.dev#Pages%3A%3A4
-
+vless://9de38dd2-f4d8-435a-85a6-1533fc783809@188.114.97.2:2053?security=tls&encryption=none&host=yongegpan.majisaw913.workers.dev&type=ws&sni=yongegpan.majisaw913.workers.dev#WorkerTest
