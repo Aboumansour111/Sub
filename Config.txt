@@ -7,4 +7,5 @@ vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:2053?path=%2Fws&securi
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=curly-haze-5374.roban82987.workers.dev&type=ws&sni=curly-haze-5374.roban82987.workers.dev#Ams%207
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=divine-limit-ad70.rawine8009.workers.dev&type=ws&sni=divine-limit-ad70.rawine8009.workers.dev#Ams%208
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#Ams%209
+vless://ab93988a-0356-49d2-8161-c0acf6025b8f@[2a01:e5c0:492c::2]:12839?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=mJJlORTpwHZ7WrdEVNY6AXToZaMsJLRWAg7dzPK-MzA&sid=676c2309&spx=%2F&type=xhttp&path=%2F&mode=auto#IPV6
 
