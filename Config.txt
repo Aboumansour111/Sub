@@ -7,3 +7,6 @@ vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:2053?path=%2Fws&securi
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=curly-haze-5374.roban82987.workers.dev&type=ws&sni=curly-haze-5374.roban82987.workers.dev#Ams%207
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=divine-limit-ad70.rawine8009.workers.dev&type=ws&sni=divine-limit-ad70.rawine8009.workers.dev#Ams%208
 vless://6704d3e9-a7a6-4316-8545-1108f194596c@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#Ams%209
+vless://3f3f5b77-05af-4627-9173-646b0a9d987c@81.28.12.12:80?path=%2F&security=none&encryption=none&host=yaaliyareza1001.com&type=ws&sni=gcore.com#Gcore%201
+
+vless://3f3f5b77-05af-4627-9173-646b0a9d987c@81.28.12.12:443?path=%2F&security=tls&encryption=none&host=yaaliyareza1001.com&type=ws&sni=gcore.com#Gcore%202
