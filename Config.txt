@@ -7,3 +7,5 @@ vless://10cbe0b0-849c-4428-abc2-0ff2ff99c563@188.114.97.7:2053?path=%2Fws&securi
 vless://10cbe0b0-849c-4428-abc2-0ff2ff99c563@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=curly-haze-5374.roban82987.workers.dev&type=ws&sni=curly-haze-5374.roban82987.workers.dev#Clodflare%207
 vless://10cbe0b0-849c-4428-abc2-0ff2ff99c563@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=divine-limit-ad70.rawine8009.workers.dev&type=ws&sni=divine-limit-ad70.rawine8009.workers.dev#Clodflare%208
 vless://10cbe0b0-849c-4428-abc2-0ff2ff99c563@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=damp-pine-ea85.wimaren917.workers.dev&type=ws&sni=damp-pine-ea85.wimaren917.workers.dev#Clodflare%209
+vless://bf7e9b29-ecb2-4c68-8612-7d7c4ff2570e@81.28.12.12:80?path=%2F&security=none&encryption=none&host=yaahmed2025.com&type=ws&sni=gcore.com#Gcore
+vless://bf7e9b29-ecb2-4c68-8612-7d7c4ff2570e@81.28.12.12:443?path=%2F&security=tls&encryption=none&host=yaahmed2025.com&type=ws&sni=gcore.com#Gcore%202
