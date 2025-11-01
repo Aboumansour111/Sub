@@ -1,4 +1,8 @@
+vless://f5761fa1-d080-40cc-88dd-94d5f1a89052@81.28.12.12:80?encryption=none&security=none&type=ws&host=yaabalfazl10313.com&path=%2Fws#Gcore1
+vless://f5761fa1-d080-40cc-88dd-94d5f1a89052@81.28.12.12:443?encryption=none&security=tls&sni=gcore.com&type=ws&host=yaabalfazl10313.com&path=%2Fws#Gcore2
+
 vless://d97094be-ab1e-4446-805e-9b0a61896792@213.21.229.180:57294?mode=auto&path=%2F&security=reality&encryption=none&pbk=nnkRAcCg1inUExwf4X49gt6aT-ddPWBnsfisQEqOyjM&fp=chrome&spx=%2F&type=xhttp&sni=flightradar24.com&sid=80#Irancell
+
 vless://01e638dc-f568-474e-a295-2fc31893feab@188.114.97.7:2053?path=%2Fws&security=tls&encryption=none&host=steep-lake-615e.xeremed6978165.workers.dev&fp=chrome&type=ws&sni=steep-lake-615e.xeremed6978165.workers.dev#PRO1
 vless://01e638dc-f568-474e-a295-2fc31893feab@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=proud-limit-f30c.ditok26539.workers.dev&type=ws&sni=proud-limit-f30c.ditok26539.workers.dev#PRO2
 vless://01e638dc-f568-474e-a295-2fc31893feab@188.114.97.7:443?path=%2Fws&security=tls&encryption=none&host=wild-dust-e712.feligaj586.workers.dev&type=ws&sni=wild-dust-e712.feligaj586.workers.dev#PRO3
